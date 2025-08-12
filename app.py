@@ -205,4 +205,4 @@ if st.button("Analyze CV"):
 
 st.markdown("---")
 st.write("How to get better results: (1) provide a clear job description; (2) upload a detailed CV; (3) for best AI quality set `OPENAI_API_KEY` environment variable before running.")
-st.write("If you want to deploy publicly, follow the steps below (Streamlit Cloud is easiest).")
+
